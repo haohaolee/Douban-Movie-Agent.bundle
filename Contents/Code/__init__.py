@@ -14,7 +14,7 @@ RE_DOUBAN_ID = Regex('\d+$')
 
 
 def Start():
-    HTTP.Headers['Accept'] = 'application/json'
+    HTTP.CacheTime = CACHE_1WEEK
 
 ################################################################################################
 
