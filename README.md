@@ -5,6 +5,7 @@ Fetch Chinese movie metadata like title, casts, director and posters from http:/
 
 ## Install
 clone this repo to your plugin folder, such as:
-    `$PLEX_HOME/Library/Application Support/Plex Media Server/Plug-ins/ (On Linux)`
-    `%LOCALAPPDATA%\Plex Media Server\Plug-ins\ (On Windows)`
+
+    $PLEX_HOME/Library/Application Support/Plex Media Server/Plug-ins/ (On Linux)
+    %LOCALAPPDATA%\Plex Media Server\Plug-ins\ (On Windows)
 
